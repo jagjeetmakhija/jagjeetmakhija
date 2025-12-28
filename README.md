@@ -9,7 +9,13 @@
 
 I'm a distinguished Senior Solution Architect with over 20 years of experience in data analytics, data warehousing, and business intelligence. Renowned for designing scalable, transformative solutions, I specialize in cutting-edge technologies such as **Microsoft Fabric**, **Azure Synapse Analytics**, **Snowflake**, **ADF**, **Power Plateform**, and **Agentic AI**. With deep expertise in enterprise data architecture and AI integration, I help organizations transform their business processes through intelligent automation and data-driven insights.
 
-> 🔍 *Architecting the future of enterprise data platforms*
+## 🏆 Certifications & Credentials
+
+- 🎖️ **Microsoft Certified:** Fabric Analytics Engineer (DP-600)
+- 🎖️ **Microsoft Certified:** Azure Solutions Architect Expert
+- 🎖️ **Microsoft Certified:** Azure Data Engineer Associate
+- 🎖️ **Microsoft Certified:** Power Platform Specialist
+- 🎖️ **SnowPro Advanced Architect** Certification
 
 ## 📚 My Published Books
 
@@ -20,8 +26,6 @@ A comprehensive guide providing expert insights and certification-ready strategi
 ### 🤖 [ADVANCED AI INSIGHT: Pushing the Boundaries of Data Science](https://www.amazon.com/ADVANCED-AI-INSIGHT-Pushing-Boundaries/dp/B0DSJBBMNJ)
 
 An exploration of advanced AI concepts and their practical applications in modern data science. This book delves into cutting-edge techniques and methodologies that are reshaping the data landscape.
-
----
 
 ## ⭐ Books I've Reviewed & Recommend
 
@@ -72,10 +76,6 @@ Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines.
 * 🔧 **[get-started-with-ai-agents](https://github.com/jackiemakhija/get-started-with-ai-agents)** - Azure AI Foundry agent web app deployment samples
 * 🧪 **[semantic-kernel-advanced-usage](https://github.com/jackiemakhija/semantic-kernel-advanced-usage)** - Advanced Semantic Kernel usage scenarios
 
-### OpenAI & Assistant API
-
-* 🤖 **[OpenAI_GPTs_AssistantAPI_examples](https://github.com/jackiemakhija/OpenAI_GPTs_AssistantAPI_examples)** - Examples utilizing OpenAI GPT and Assistant API with function calling
-
 ## 📊 GitHub Stats
 
 ![Jagjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackiemakhija&show_icons=true&theme=react&include_all_commits=true&count_private=true)
@@ -95,7 +95,6 @@ Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines.
 
 ## 🔧 Technologies & Tools
 
-![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 ![Microsoft Fabric](https://img.shields.io/badge/Platform-Microsoft_Fabric-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=2bbc8a)
 ![PowerBI](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
@@ -104,28 +103,12 @@ Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines.
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![PySpark](https://img.shields.io/badge/Framework-PySpark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
-![Dynamics365](https://img.shields.io/badge/ERP-Dynamics_365-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![VSCode](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-
-## 🏆 Certifications & Credentials
-
-- 🎖️ **Microsoft Certified:** Fabric Analytics Engineer (DP-600)
-- 🎖️ **Microsoft Certified:** Azure Solutions Architect Expert
-- 🎖️ **Microsoft Certified:** Azure Data Engineer Associate
-- 🎖️ **Microsoft Certified:** Power Platform Specialist
-- 🎖️ **SnowPro Advanced Architect** Certification
-- 🎖️ **Certified Data Scientist**
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-jagjeetmakhija-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jagjeetmakhija)
 [![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jagjeetmakhija)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@jagjeetmakhija)
-[![Amazon Author](https://img.shields.io/badge/-Amazon_Author-FF9900?style=for-the-badge&logo=Amazon&logoColor=white)](https://www.amazon.com/Implementing-Analytics-Solutions-Microsoft-Fabric-DP-600-ebook/dp/B0DQXNKS5Z)
 
 ---
 
