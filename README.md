@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jagjeetmakhija-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jagjeetmakhija)
 [![Twitter](https://img.shields.io/badge/Twitter-jagjeetmakhija-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/jagjeetmakhija)
 [![Medium](https://img.shields.io/badge/medium.com-green?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@jagjeetmakhija)
-[![GitHub followers](https://img.shields.io/github/followers/jackiemakhija?label=Follow&style=social)](https://github.com/jagjeetmakhija)
+![GitHub followers](https://img.shields.io/github/followers/jagjeetmakhija?style=social)
 
 ## 💼 About Me
 
@@ -16,6 +16,13 @@ I'm a distinguished Senior Solution Architect with over 20 years of experience i
 - 🎖️ **Microsoft Certified:** Azure Data Engineer Associate
 - 🎖️ **Microsoft Certified:** Power Platform Specialist
 - 🎖️ **SnowPro Advanced Architect** Certification
+
+## 🤖 Custom GPT Live
+<div align="center">
+  <a href="https://chatgpt.com/g/g-I2Mp1lkpG-dynamics-365-cjo-copilot">
+    <img src="https://img.shields.io/badge/ChatGPT-Dynamics_365_CJO_Copilot-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Custom GPT" />
+  </a>
+</div>
 
 ## 📚 My Published Books
 
@@ -78,20 +85,37 @@ Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines.
 
 ## 📊 GitHub Stats
 
-![Jagjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackiemakhija&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackiemakhija&layout=compact&langs_count=7&theme=react)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackiemakhija&theme=react)
+<a href="https://github.com/jagjeetmakhija">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagjeetmakhija&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Jagjeet's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetmakhija&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages"/>
+</a>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jackiemakhija&theme=onedark&column=7)
+<br/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackiemakhija&theme=react-dark)
+<a href="https://github.com/jagjeetmakhija">
+  <img src="https://streak-stats.demolab.com/?user=jagjeetmakhija&theme=react&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/jagjeetmakhija">
+  <img src="https://github-profile-trophy.vercel.app/?username=jagjeetmakhija&theme=onedark&no-frame=true&row=1&column=7" alt="Trophy"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/jagjeetmakhija">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagjeetmakhija&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</a>
+
+</div>
 
 ## 📈 Engagement
-
-![Total Stars](https://img.shields.io/github/stars/jackiemakhija?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars)
-![Watchers](https://img.shields.io/github/watchers/jackiemakhija?style=for-the-badge&logo=github&color=blue&label=Watchers)
-![Discussions](https://img.shields.io/github/discussions/jackiemakhija/jagjeetmakhija.github.io?style=for-the-badge&logo=github&color=green&label=Discussions)
+![Total Stars](https://img.shields.io/github/stars/jagjeetmakhija?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars)
+![Watchers](https://img.shields.io/github/watchers/jagjeetmakhija?style=for-the-badge&logo=github&color=blue&label=Watchers)
+![Discussions](https://img.shields.io/github/discussions/jagjeetmakhija/jagjeetmakhija?style=for-the-badge&logo=github&color=green&label=Discussions)
 
 ## 🔧 Technologies & Tools
 
