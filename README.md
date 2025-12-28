@@ -13,8 +13,6 @@ I'm a distinguished Senior Solution Architect with over 20 years of experience i
 
 ## 📚 My Published Books
 
-[![Book Cover](https://m.media-amazon.com/images/I/71vKKqZfOBL._SL1500_.jpg)](https://www.amazon.com/Implementing-Analytics-Solutions-Microsoft-Fabric-DP-600-ebook/dp/B0DQXNKS5Z)
-
 ### 📖 [Implementing Analytics Solutions Using Microsoft Fabric DP-600 Exam Study Guide](https://www.amazon.com/Implementing-Analytics-Solutions-Microsoft-Fabric-DP-600-ebook/dp/B0DQXNKS5Z)
 
 A comprehensive guide providing expert insights and certification-ready strategies for Microsoft Fabric analytics professionals. Co-authored with Charles Odunukwe, this book is designed to boost your skills and prepare you for the DP-600 certification exam.
