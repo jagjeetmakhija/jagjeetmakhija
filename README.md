@@ -110,8 +110,6 @@ A specialized GPT designed to provide expert guidance on Dynamics 365 Customer J
 
 ## 🔧 Technologies & Tools
 
-## 🔧 Technologies & Tools
-
 <div align="center">
 
 ![](https://img.shields.io/badge/Platform-Microsoft_Fabric-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
