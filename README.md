@@ -132,9 +132,6 @@ A specialized GPT designed to provide expert guidance on Dynamics 365 Customer J
   <a href="https://twitter.com/jagjeetmakhija">
     <img src="https://img.shields.io/badge/-@jagjeetmakhija-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a><br>
-  <a href="https://ko-fi.com/jagjeetmakhija">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
-  </a>
 </p>
 
 ---
