@@ -86,7 +86,7 @@ A specialized GPT designed to provide expert guidance on Dynamics 365 Customer J
 - 🌱 [Database Engineering Insights](https://www.linkedin.com/posts/jagjeetmakhija_micorsoft-database-dataengineering-activity-7095151633428336640-TgT4?utm_source=share&utm_medium=member_desktop)
 
 ### AI & Cloud Architecture
--  [Microsoft Copilot & ChatGPT Integration](https://www.linkedin.com/posts/jagjeetmakhija_micrsoft-copilot-chatgpt-activity-7153453681013616640-hSkW?utm_source=share&utm_medium=member_desktop)
+-  [Custom Copilot to ChatGPT for Customer Journey Orchestration in Dynamics 365](https://www.linkedin.com/posts/jagjeetmakhija_micrsoft-copilot-chatgpt-activity-7153453681013616640-hSkW?utm_source=share&utm_medium=member_desktop)
 -  [Eyes as Pens: Microsoft's Leap Towards Revolutionary Accessibility](https://www.linkedin.com/posts/jagjeetmakhija_microsoft365-azure-office365-activity-7178862381173788672-kATI?utm_source=share&utm_medium=member_desktop)
 -  [Cloud Katana Microsoft Open Source](https://www.linkedin.com/posts/jagjeetmakhija_microsoft-cloudarchitecture-cloudstorage-activity-6849039050393960448-Woui?utm_source=share&utm_medium=member_desktop)
 -  [Artificial Intelligence, Generative AI, Machine Learning, Computer Vision, Data Science, Agentic AI](https://www.linkedin.com/feed/update/urn:li:activity:7345507317934604288?utm_source=share&utm_medium=member_desktop)
