@@ -82,7 +82,7 @@ A specialized GPT designed to provide expert guidance on Dynamics 365 Customer J
 ### Azure Data Engineering
 - 💰 [Automating File Cleanup in Azure Data Lake with ADF & GitHub-Hosted JSON](https://www.linkedin.com/posts/jagjeetmakhija_azuredatafactory-azuredatalake-dataengineering-activity-7345287107873034240-G8nV?utm_source=share&utm_medium=member_desktop)
 - 🤖 [Key Attributes Of Azure Synapse](https://www.linkedin.com/posts/jagjeetmakhija_azurecloud-azuresql-microsoftazure-activity-6801746066556489728-80S9?utm_source=share&utm_medium=member_desktop)
-- ⚡ [Azure Databricks & Data Lake Integration](https://www.linkedin.com/posts/jagjeetmakhija_adfs-azuredatalake-azuredatabricks-activity-6769740877184294912-Cx9y?utm_source=share&utm_medium=member_desktop)
+- ⚡ [ADF vs Data bricks](https://www.linkedin.com/posts/jagjeetmakhija_adfs-azuredatalake-azuredatabricks-activity-6769740877184294912-Cx9y?utm_source=share&utm_medium=member_desktop)
 - 🌱 [Database Engineering Insights](https://www.linkedin.com/posts/jagjeetmakhija_micorsoft-database-dataengineering-activity-7095151633428336640-TgT4?utm_source=share&utm_medium=member_desktop)
 
 ### AI & Cloud Architecture
