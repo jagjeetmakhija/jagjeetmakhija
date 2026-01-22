@@ -10,6 +10,26 @@
 
 I'm a **Senior Data & AI Architect** with **20+ years of experience** designing, modernizing, and scaling enterprise-grade data platforms across Fortune 500 organizations. With extensive expertise in Azure Databricks, Microsoft Fabric, and Snowflake, I help organizations transform their data infrastructure through cloud-native lakehouse architectures and AI-driven analytics.
 
+<h3>Microsoft Azure Certifications:</h3>
+<ul>
+<li>Designing and Implementing Microsoft Fabric (DP-600) – 2024</li>
+<li>Azure Data Engineer Associate (DP-203) – 2021</li>
+<li>Designing Azure Data Solutions (DP-201) – 2021</li>
+<li>Azure Fundamentals (AZ-900) – 2020</li>
+</ul>
+<h3>Snowflake Certifications:</h3>
+<ul>
+<li>SnowPro Advanced: Architect – 2021</li>
+<li>SnowPro Core Certification – 2021</li>
+</ul>
+<h3>Databricks Certification:</h3>
+<ul>
+<li>Databricks Certified Data Engineer Professional – 2026</li>
+</ul>
+<h3>Claude Certification:</h3>
+<ul>
+<li>Claude Code in Action – 2026</li>
+</ul>
 
 ## 📚 My Latest Published books on Data & AI
 
