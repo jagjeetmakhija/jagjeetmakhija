@@ -75,6 +75,7 @@ A specialized GPT designed to provide expert guidance on Dynamics 365 Customer J
 
 - 🤖 **[Natural-Language-to-Governed-Insights-End-to-End-Runbook](https://github.com/jagjeetmakhija/Natural-Language-to-Governed-Insights-End-to-End-Runbook)** - Natural Language to Governed Insights End-to-End Runbook (Microsoft Fabric + Semantic Model + Foundry Local)
 - 📞 **[CallCenter-AIAgent](https://github.com/jagjeetmakhija/CallCenter-AIAgent)** - AI-Powered Call Center Solution with intelligent automation
+-  **[DataQualityGatekeeper](https://github.com/jagjeetmakhija/DataQualityGatekeeper)** - Universal CSV Data Quality and Validation Engine 
 
 ### Latest Repositories
 - 🔧 **[AI-Agenti-usecase-Templates](https://github.com/jagjeetmakhija/AI-Agenti-usecase-Templates)** - AI Agent implementation templates for enterprise scenarios
